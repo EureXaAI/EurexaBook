@@ -11,9 +11,7 @@ EurexaBook is a zero-configuration, cloud-based robotics simulation and developm
 7. Isaac Labs Web Rendering and Interaction: Enables real-time Isaac Labs simulations and interactions through a web interface.
 
 ## Roadmap
-```markdown
-![EurexaBook Roadmap](roadmap.png)
-```
+![EurexaBook](https://github.com/user-attachments/assets/2d6d5aec-3387-4ce9-aa21-99d748b07379)
 0. Current Stage: Supported Features: Mujoco, dm_control, and Google Colab integration. The foundational simulation environment is in place.
 1. Step 1: Enhancement: Introduces Mujoco Browser, enabling web-based Mujoco and Isaac simulation and interaction.
 2. Step 2: Expansion: Adds GPU Provider support to accelerate simulations with high-performance cloud computing resources.
